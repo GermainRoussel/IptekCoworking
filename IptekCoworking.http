@@ -1,0 +1,6 @@
+@IptekCoworking_HostAddress = http://localhost:5069
+
+GET {{IptekCoworking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
